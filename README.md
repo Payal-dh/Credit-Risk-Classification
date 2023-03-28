@@ -1,5 +1,5 @@
 # Credit-Risk-Classification:
-## Evaluating a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+## Evaluating a model based on loan risk. Using a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 ## 1. Question: 
 How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
